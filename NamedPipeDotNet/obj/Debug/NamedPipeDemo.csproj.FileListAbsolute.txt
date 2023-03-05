@@ -1,0 +1,20 @@
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeDotNet\bin\Debug\NamedPipeDemo.exe.config
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeDotNet\bin\Debug\NamedPipeDemo.exe
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeDotNet\bin\Debug\NamedPipeDemo.pdb
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeDotNet\bin\Debug\NamedPipeLib.dll
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeDotNet\bin\Debug\NamedPipeLib.pdb
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeDotNet\obj\Debug\NamedPipeDemo.csproj.AssemblyReference.cache
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeDotNet\obj\Debug\NamedPipeDemo.csproj.CoreCompileInputs.cache
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeDotNet\obj\Debug\NamedPipeDemo.csproj.CopyComplete
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeDotNet\obj\Debug\NamedPipeDemo.exe
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeDotNet\obj\Debug\NamedPipeDemo.pdb
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeDotNet\bin\Debug\NamedPipeDemo.exe.config
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeDotNet\bin\Debug\NamedPipeDemo.exe
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeDotNet\bin\Debug\NamedPipeDemo.pdb
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeDotNet\bin\Debug\NamedPipeLib.dll
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeDotNet\bin\Debug\NamedPipeLib.pdb
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeDotNet\obj\Debug\NamedPipeDemo.csproj.AssemblyReference.cache
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeDotNet\obj\Debug\NamedPipeDemo.csproj.CoreCompileInputs.cache
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeDotNet\obj\Debug\NamedPipeDemo.csproj.CopyComplete
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeDotNet\obj\Debug\NamedPipeDemo.exe
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeDotNet\obj\Debug\NamedPipeDemo.pdb

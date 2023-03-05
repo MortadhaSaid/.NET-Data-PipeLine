@@ -1,0 +1,10 @@
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeLib\bin\Debug\NamedPipeLib.dll
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeLib\bin\Debug\NamedPipeLib.pdb
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeLib\obj\Debug\NamedPipeLib.csproj.CoreCompileInputs.cache
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeLib\obj\Debug\NamedPipeLib.dll
+C:\Users\NaiSh\Desktop\DemoSOL\NamedPipeLib\obj\Debug\NamedPipeLib.pdb
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeLib\bin\Debug\NamedPipeLib.dll
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeLib\bin\Debug\NamedPipeLib.pdb
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeLib\obj\Debug\NamedPipeLib.csproj.CoreCompileInputs.cache
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeLib\obj\Debug\NamedPipeLib.dll
+C:\Users\NaiSh\Desktop\Alpha test\NamedPipeLib\obj\Debug\NamedPipeLib.pdb

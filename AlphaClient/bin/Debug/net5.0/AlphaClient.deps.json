@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AlphaClient/1.0.0": {
+        "dependencies": {
+          "NamedPipeLib": "1.0.0"
+        },
+        "runtime": {
+          "AlphaClient.dll": {}
+        }
+      },
+      "NamedPipeLib/1.0.0": {
+        "runtime": {
+          "NamedPipeLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlphaClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NamedPipeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
